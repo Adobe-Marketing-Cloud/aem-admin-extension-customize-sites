@@ -1,0 +1,4 @@
+#base=js
+# Extension for Sites administration client library to publish to twitter
+
+twitter.js
